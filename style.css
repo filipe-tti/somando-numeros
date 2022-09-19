@@ -1,0 +1,42 @@
+body{
+    font: normal 18pt Helvetica;
+   
+    background-image: url("../bg.jpg");
+    background-position: center;
+    background-size: cover; /* se adapta a tela do usuario*/
+   
+    
+
+
+
+}
+
+input{
+    font: normal 12pt Helvetica;
+    width: 100px;
+}
+
+#res{
+    font: normal 12pt Helvetica;
+    margin-top: 20px;
+    text-align: left;
+    
+}
+
+#soma{
+    background-color: rgb(94, 184, 236);
+    margin: 3rem auto;
+    max-width: 450px;
+    margin: 3rem auto;
+    padding: 1.5rem;
+    border-radius: 15px;
+    
+}
+
+
+
+    
+    
+    
+
+
